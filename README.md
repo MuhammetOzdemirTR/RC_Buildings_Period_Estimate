@@ -3,7 +3,7 @@
 
 
 <p align="justify">
-   Bu çalışma, Doç.Dr. Dilek OKUYUCU danışmanlığında Muhammet ÖZDEMİR tarafından **ÇOK KATLI BETONARME YAPILARDA OPERASYONEL MODAL ANALİZ UYGULAMASI ÜZERİNE SENSÖR OPTİMİZASYONU** başlıklı doktora tezi kapsamında üretilmiş olup betonarme (BA) yapıların hakim titreşim periyotlarının yapısal parametreler kullanılarak makine öğrenmesi yöntemleri ile tahmin edilmesine yönelik geliştirilen modelleri, ilgili kodları, model dosyalarını ve açıklayıcı dokümantasyonu içermektedir. 
+   Bu çalışma, Doç.Dr. Dilek OKUYUCU danışmanlığında Muhammet ÖZDEMİR tarafından ÇOK KATLI BETONARME YAPILARDA OPERASYONEL MODAL ANALİZ UYGULAMASI ÜZERİNE SENSÖR OPTİMİZASYONU başlıklı doktora tezi kapsamında üretilmiş olup betonarme (BA) yapıların hakim titreşim periyotlarının yapısal parametreler kullanılarak makine öğrenmesi yöntemleri ile tahmin edilmesine yönelik geliştirilen modelleri, ilgili kodları, model dosyalarını ve açıklayıcı dokümantasyonu içermektedir. 
 </p>
 
 
