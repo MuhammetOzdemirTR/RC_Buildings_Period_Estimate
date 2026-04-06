@@ -14,11 +14,16 @@
 
  **Bu depoda yer alan klasörler ve dosyalar aşağıdaki şekildedir.** 
 
- **1. Veri Seti**
+ **1. README**
+
+ 
+ Bu dosyanın amacı, kapsamı, kullanılan yöntemler, dosya yapısı ve kullanım adımlarına ilişkin açıklamaları içeren ana tanıtım dosyasıdır.
+
+ **2. Veri Seti**
 
  Model geliştirme sürecinde kullanılan, 176 BA yapının yapısal parametre bilgilerini ve hakim titreşim periyotlarını içeren veri setini ifade etmektedir.
 
- **2. Makine Öğrenmesi Modelleri**
+ **3. Makine Öğrenmesi Modelleri**
 
  Eğitilmiş makine öğrenmesi modellerinin yer aldığı klasördür.
  
